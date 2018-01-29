@@ -1,0 +1,24 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "basic practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukundajmera/nodejs_prac.git"
+  },
+  "author": "Mukund Ajmera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukundajmera/nodejs_prac/issues"
+  },
+  "homepage": "https://github.com/mukundajmera/nodejs_prac#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemod": "^1.5.19"
+  },
+  "devDependencies": {}
+}
