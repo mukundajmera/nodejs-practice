@@ -14,7 +14,7 @@ http.createServer(function (req,res){
 //        res.writeHead(302, {Location: "http://localhost:8080"+filename});
         fs.readFile('.'+filename, function(err, data) {
 //        res.write(data.toString());
-  //      res.end();
+        res.end();
         });
       }
       else
