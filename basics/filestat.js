@@ -1,6 +1,6 @@
 var fs = require("fs");
 
-console.log("File info node");
+console.log("File info node ");
 fs.stat('read.txt', function (err, stats) {
    if (err) {
        return console.error(err);

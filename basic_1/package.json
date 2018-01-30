@@ -1,0 +1,22 @@
+{
+  "name": "basic_input",
+  "version": "1.0.0",
+  "description": "this npm is to get basic input from users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukundajmera/nodejs_prac.git"
+  },
+  "author": "Mukund ajmera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukundajmera/nodejs_prac/issues"
+  },
+  "homepage": "https://github.com/mukundajmera/nodejs_prac#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
